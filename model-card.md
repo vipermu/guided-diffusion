@@ -5,7 +5,7 @@ Included in this release are the following models:
 
  * Noisy ImageNet classifiers at resolutions 64x64, 128x128, 256x256, 512x512
  * A class-unconditional ImageNet diffusion model at resolution 256x256
- * Class conditional ImageNet diffusion models at 64x64, 128x128, 256x256, 512x512 resolutions
+ * Class-conditional ImageNet diffusion models at 64x64, 128x128, 256x256, 512x512 resolutions
  * Class-conditional ImageNet upsampling diffusion models: 64x64->256x256, 128x128->512x512
  * Diffusion models trained on three LSUN classes at 256x256 resolution: cat, horse, bedroom
 
